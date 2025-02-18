@@ -1,4 +1,4 @@
-# Melanoma Detection
+# CNN Architecture: Melanoma Detection - Assignment
 Melanoma is the deadliest form of skin cancer among over 200 types. Its diagnosis generally starts with clinical screening, followed by dermoscopy and histopathology. Early detection is crucial for effective treatment. Dermatologists use high-speed cameras for visual inspection, achieving 65-80% accuracy in diagnosis. With additional expert analysis, accuracy increases to 75-84%. The project aims to develop an automated system using image processing to classify skin cancer from lesion images.
 
 ## Problem statement
